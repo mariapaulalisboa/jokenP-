@@ -1,4 +1,4 @@
-#🕹️ Jokenpô - Pedra, Papel e Tesoura 
+# 🕹️ Jokenpô - Pedra, Papel e Tesoura 
 
 Um jogo simples de **Jokenpô** (Pedra, Papel e Tesoura) desenvolvido com **HTML**, **CSS** e **JavaScript**.
 
